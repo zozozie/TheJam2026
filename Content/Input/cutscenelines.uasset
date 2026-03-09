@@ -1,0 +1,12 @@
+set "n" for narration
+set "r" for ruby  
+|Intro Scene|                                                                                                                                                                    |Mini Epilogue|
+|n: "I remember when I used to be happy about my birthday being on New Year's. It felt romantic. Then I got really depressed over it for a few years, and now?"|                 |n: "I might have not gotten my New Year's kiss the way I wanted to, but I got my life back. And the lives of everyone I love. I've got a lot to celebrate."|
+|n: Now I'm over the moon.|                                                                                                                                                      |n: "And I finally got my homicidal itch out of the way! Thanks for that one, mother. Cheers for your twentieth year behind bars."|
+|n: I'm engaged, I have the best friends a gal can ask for, and I really think I've gotten my life together. Plus, I'm turning thirty!|                                          |n: "Love, Ruby."|           
+|cutto: deadruby img|
+|n: I wish I could tell the me of twenty three hours ago that she was a fucking idiot.| 
+|r: Ugh…this isn't real.|
+|n: Bullshit. I know I'm dead. Or dying. Same goddamn difference. If this was how the universe was gonna pull the plug on me though?|
+|r: …I'd have killed whoever did this to me. Taken them out with me.| 
+|r: Mom, I should've been more like you. Till the bitter end.| 
